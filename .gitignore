@@ -27,6 +27,7 @@
 *.lib
 /x64
 /Debug
+/.vs
 # Executables
 *.exe
 *.out
